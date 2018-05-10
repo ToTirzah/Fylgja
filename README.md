@@ -1,5 +1,5 @@
 # Fylgja
-Syntax sugar and language extensions for better experience with expression-body methods.
+Syntax sugar and language extensions for better experience with expression-bodied members.
 
 Some examples:
 
